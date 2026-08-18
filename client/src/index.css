@@ -34,22 +34,22 @@
 :root {
   --radius: 0.4rem;
   --background: oklch(0.966 0.012 78);
-  --foreground: oklch(0.19 0.018 55);
+  --foreground: oklch(0.16 0.025 255);
   --card: oklch(0.985 0.008 78);
-  --card-foreground: oklch(0.19 0.018 55);
+  --card-foreground: oklch(0.16 0.025 255);
   --popover: oklch(0.985 0.008 78);
-  --popover-foreground: oklch(0.19 0.018 55);
-  --primary: oklch(0.61 0.16 35);
+  --popover-foreground: oklch(0.16 0.025 255);
+  --primary: oklch(0.59 0.22 260);
   --primary-foreground: oklch(0.985 0.008 78);
   --secondary: oklch(0.91 0.018 144);
   --secondary-foreground: oklch(0.25 0.035 145);
   --muted: oklch(0.92 0.014 78);
   --muted-foreground: oklch(0.48 0.02 65);
-  --accent: oklch(0.61 0.16 35);
+  --accent: oklch(0.59 0.22 260);
   --accent-foreground: oklch(0.985 0.008 78);
   --border: oklch(0.84 0.018 72);
   --input: oklch(0.84 0.018 72);
-  --ring: oklch(0.61 0.16 35);
+  --ring: oklch(0.59 0.22 260);
 }
 
 * { box-sizing: border-box; }
