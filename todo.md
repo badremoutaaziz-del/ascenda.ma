@@ -6,3 +6,7 @@
 - [x] Ajouter les liens Instagram et Facebook dans le pied de page.
 - [x] Vérifier le rendu desktop et mobile, puis créer un checkpoint publiable.
 - [ ] Guider la publication et la liaison du domaine ascenda.ma depuis l’interface de gestion.
+
+- [ ] Vérifier l’authentification GitHub disponible.
+- [ ] Créer ou exporter le dépôt GitHub nommé ascenda.ma.
+- [ ] Pousser le checkpoint courant vers le dépôt et communiquer l’URL.
